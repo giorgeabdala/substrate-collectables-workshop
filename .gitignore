@@ -3,3 +3,4 @@ target/
 chain_spec.json
 book
 steps
+.idea

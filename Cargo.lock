@@ -1741,7 +1741,7 @@ dependencies = [
 ]
 
 [[package]]
-name = "pallet-kitties"
+name = "pallet-kitties-abdala"
 version = "0.1.0"
 dependencies = [
  "frame-system",

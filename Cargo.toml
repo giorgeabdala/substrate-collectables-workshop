@@ -1,8 +1,8 @@
 [package]
-name = "pallet-kitties"
+name = "pallet-kitties-abdala"
 version = "0.1.0"
 description = "An NFT Marketplace for Kitties"
-authors = ["Shawn Tabrizi <shawntabrizi@gmail.com>"]
+authors = ["Shawn Tabrizi <shawntabrizi@gmail.com>", "Giorge Abdala"]
 homepage = "https://www.shawntabrizi.com/substrate-collectables-workshop/"
 repository = "https://github.com/shawntabrizi/substrate-collectables-workshop"
 edition = "2021"
